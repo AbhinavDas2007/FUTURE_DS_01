@@ -39,7 +39,7 @@ This project analyzes Superstore sales data using Tableau Public to explore sale
 **Tableau Public Link:** https://public.tableau.com/app/profile/abhinav.das7067/viz/TASK-1SuperstoreSalesAnalytics/SuperstoreAnalyticsDashboard
 
 ## Dashboard Preview
-![Superstore Sales Analytics Dashboard](Screenshots/dashboard-screenshot.png)
+![Superstore Sales Analytics Dashboard](dashboard-screenshot.png)
 
 ## Conclusion
 The dashboard brings together sales, profit, product, and regional metrics to support exploratory business analysis and help identify patterns in Superstore performance.
