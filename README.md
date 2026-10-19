@@ -36,7 +36,7 @@ This project analyzes Superstore sales data using Tableau Public to explore sale
 - The dashboard provides a view of differences in sales across states and regions.
 
 ## Dashboard
-**Tableau Public Link:** [Add your published dashboard link here]
+**Tableau Public Link:** https://public.tableau.com/app/profile/abhinav.das7067/viz/TASK-1SuperstoreSalesAnalytics/SuperstoreAnalyticsDashboard
 
 ## Files
 - `dashboard-screenshot.png` — Dashboard preview.
